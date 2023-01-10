@@ -1,0 +1,13 @@
+#app {
+  font-family: Century Gothic;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #0075eb;
+  margin-top: 60px;
+}
+
+h1 {
+  color: #0303ce;
+
+}
