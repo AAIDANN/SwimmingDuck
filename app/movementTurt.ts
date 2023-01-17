@@ -17,7 +17,7 @@ export const swimmingTurtle = {
   },
   // NOTE: you NEVER call your move method!
   move () {
-     swimmingTurtle.x +=9
+     swimmingTurtle.x +=11
     swimmingTurtle.y+=0
     if(swimmingTurtle.x>500) {
       swimmingTurtle.x=0
