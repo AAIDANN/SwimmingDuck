@@ -21,7 +21,7 @@ export const swimmingTurtle = {
     swimmingTurtle.y+=0
     if(swimmingTurtle.x>500) {
       swimmingTurtle.x=0
-    swimmingTurtle.y=Math.random()*500
+    swimmingTurtle.y=Math.random()*450
     }
   
    
